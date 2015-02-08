@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FITPrettyIconsController.h
 //  tableturner
 //
 //  Created by Anowar on 2/8/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FITPrettyIconsController : UITableViewController
 
 @end
-

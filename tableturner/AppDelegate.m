@@ -14,6 +14,7 @@
 
 @implementation AppDelegate
 
+#pragma mark Application Delegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
